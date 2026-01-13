@@ -1,3 +1,4 @@
+이미지 깨져서 깃랩 링크  : https://lab.ssafy.com/s13-webmobile1-sub1/S13P11E106/-/blob/main/README.md?ref_type=heads
 ## 🥊 주먹이 운다 (E106)
 
 > 권투 기반 철거 게임
